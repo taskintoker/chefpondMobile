@@ -1861,6 +1861,9 @@ ion-header-bar span {
 
 .icon-list {
     padding: 0px 0px 15px 15px;
+    height: 357px;
+    overflow: scroll;
+    overflow-y: scroll;
 }
 
 .icon-list li {
