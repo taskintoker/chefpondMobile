@@ -1,0 +1,5050 @@
+@font-face {
+	font-family: 'chefpond_function_icon';
+	src:url('fonts/icomoon.eot?-2udu7o');
+	src:url('fonts/icomoon.eot?#iefix-2udu7o') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?-2udu7o') format('truetype'),
+		url('fonts/icomoon.woff?-2udu7o') format('woff'),
+		url('fonts/icomoon.svg?-2udu7o#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+
+
+
+
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'chefpond_function_icon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-01:before {
+	content: "\e600";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-02:before {
+	content: "\e601";
+}
+
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-03:before {
+	content: "\e655";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-04:before {
+	content: "\e664";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-05:before {
+	content: "\e665";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-06:before {
+	content: "\e666";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-07:before {
+	content: "\e667";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-08:before {
+	content: "\e668";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-09:before {
+	content: "\e669";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-10:before {
+	content: "\e671";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-11:before {
+	content: "\e672";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-12:before {
+	content: "\e682";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-13:before {
+	content: "\e683";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-14:before {
+	content: "\e684";
+}
+
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-15:before {
+	content: "\e69e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-16:before {
+	content: "\e6ad";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-17:before {
+	content: "\e6b2";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-18:before {
+	content: "\e6b3";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-19:before {
+	content: "\e6b4";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-20:before {
+	content: "\e6b5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-21:before {
+	content: "\e6b6";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-22:before {
+	content: "\e6b7";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-23:before {
+	content: "\e6b8";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-24:before {
+	content: "\e6c5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-25:before {
+	content: "\e6d2";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-26:before {
+	content: "\e6d3";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-27:before {
+	content: "\e6d4";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-28:before {
+	content: "\e6d5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-29:before {
+	content: "\e6d6";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-30:before {
+	content: "\e6d7";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-31:before {
+	content: "\e6d8";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-32:before {
+	content: "\e6d9";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-33:before {
+	content: "\e6da";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-34:before {
+	content: "\e6db";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-35:before {
+	content: "\e6dc";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-36:before {
+	content: "\e6dd";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-37:before {
+	content: "\e6de";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-38:before {
+	content: "\e6df";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-39:before {
+	content: "\e6e0";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-40:before {
+	content: "\e6e1";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-41:before {
+	content: "\e6e2";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-42:before {
+	content: "\e6e3";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-43:before {
+	content: "\e6e4";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-44:before {
+	content: "\e6e5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-45:before {
+	content: "\e6e6";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-46:before {
+	content: "\e6e7";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-47:before {
+	content: "\e6e8";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-48:before {
+	content: "\e6e9";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-49:before {
+	content: "\e6ea";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-50:before {
+	content: "\e6eb";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-51:before {
+	content: "\e6ec";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-52:before {
+	content: "\e6ed";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-53:before {
+	content: "\e6ee";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-54:before {
+	content: "\e6ef";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-55:before {
+	content: "\e6f0";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-56:before {
+	content: "\e6f1";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-57:before {
+	content: "\e6f2";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-58:before {
+	content: "\e6f3";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-59:before {
+	content: "\e6f4";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-60:before {
+	content: "\e6f5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-61:before {
+	content: "\e6f6";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-62:before {
+	content: "\e6f7";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-63:before {
+	content: "\e6f8";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-64:before {
+	content: "\e6f9";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-65:before {
+	content: "\e6fa";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-66:before {
+	content: "\e6fb";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-67:before {
+	content: "\e6fc";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-68:before {
+	content: "\e6fd";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-69:before {
+	content: "\e6fe";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-70:before {
+	content: "\e6ff";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-71:before {
+	content: "\e700";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-72:before {
+	content: "\e701";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-73:before {
+	content: "\e702";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-74:before {
+	content: "\e703";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-75:before {
+	content: "\e704";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-76:before {
+	content: "\e705";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-77:before {
+	content: "\e706";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-78:before {
+	content: "\e707";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-79:before {
+	content: "\e708";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-80:before {
+	content: "\e709";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-81:before {
+	content: "\e70a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-82:before {
+	content: "\e70b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-83:before {
+	content: "\e70c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-84:before {
+	content: "\e70d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-85:before {
+	content: "\e70e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-86:before {
+	content: "\e70f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-87:before {
+	content: "\e710";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-88:before {
+	content: "\e711";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-89:before {
+	content: "\e712";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-90:before {
+	content: "\e713";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-91:before {
+	content: "\e714";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-92:before {
+	content: "\e715";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-93:before {
+	content: "\e716";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-94:before {
+	content: "\e717";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-95:before {
+	content: "\e718";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-96:before {
+	content: "\e719";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-97:before {
+	content: "\e71a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-98:before {
+	content: "\e71b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-99:before {
+	content: "\e71c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2b-100:before {
+	content: "\e71d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-01:before {
+	content: "\e71e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-02:before {
+	content: "\e71f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-03:before {
+	content: "\e720";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-04:before {
+	content: "\e721";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-05:before {
+	content: "\e722";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-06:before {
+	content: "\e723";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-07:before {
+	content: "\e724";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-08:before {
+	content: "\e725";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-09:before {
+	content: "\e726";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-10:before {
+	content: "\e727";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-11:before {
+	content: "\e728";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-12:before {
+	content: "\e729";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-13:before {
+	content: "\e72a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-14:before {
+	content: "\e72b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-15:before {
+	content: "\e72c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-16:before {
+	content: "\e72d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-17:before {
+	content: "\e72e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-18:before {
+	content: "\e72f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-19:before {
+	content: "\e730";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-20:before {
+	content: "\e731";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-21:before {
+	content: "\e732";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-22:before {
+	content: "\e733";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-23:before {
+	content: "\e734";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-24:before {
+	content: "\e735";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-25:before {
+	content: "\e736";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-26:before {
+	content: "\e737";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-27:before {
+	content: "\e738";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-28:before {
+	content: "\e739";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-29:before {
+	content: "\e73a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-30:before {
+	content: "\e73b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-31:before {
+	content: "\e73c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-32:before {
+	content: "\e73d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-33:before {
+	content: "\e73e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-34:before {
+	content: "\e73f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-35:before {
+	content: "\e740";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-36:before {
+	content: "\e741";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-37:before {
+	content: "\e742";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-38:before {
+	content: "\e743";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-39:before {
+	content: "\e744";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-40:before {
+	content: "\e745";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-41:before {
+	content: "\e746";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-42:before {
+	content: "\e747";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-43:before {
+	content: "\e748";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-44:before {
+	content: "\e749";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-45:before {
+	content: "\e74a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-46:before {
+	content: "\e74b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-47:before {
+	content: "\e74c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-48:before {
+	content: "\e74d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-49:before {
+	content: "\e74e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-50:before {
+	content: "\e74f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-51:before {
+	content: "\e750";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-52:before {
+	content: "\e751";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-53:before {
+	content: "\e752";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-54:before {
+	content: "\e753";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-55:before {
+	content: "\e754";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-56:before {
+	content: "\e755";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-57:before {
+	content: "\e756";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-58:before {
+	content: "\e757";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-59:before {
+	content: "\e758";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-60:before {
+	content: "\e759";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-61:before {
+	content: "\e75a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-62:before {
+	content: "\e75b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-63:before {
+	content: "\e75c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-64:before {
+	content: "\e75d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-65:before {
+	content: "\e75e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-66:before {
+	content: "\e75f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-67:before {
+	content: "\e760";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-68:before {
+	content: "\e761";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-69:before {
+	content: "\e762";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-70:before {
+	content: "\e763";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-71:before {
+	content: "\e764";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-72:before {
+	content: "\e765";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-73:before {
+	content: "\e766";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-74:before {
+	content: "\e767";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-75:before {
+	content: "\e768";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-76:before {
+	content: "\e769";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-77:before {
+	content: "\e76a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-78:before {
+	content: "\e76b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-79:before {
+	content: "\e76c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-80:before {
+	content: "\e76d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-81:before {
+	content: "\e76e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-82:before {
+	content: "\e76f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-83:before {
+	content: "\e770";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-84:before {
+	content: "\e771";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-85:before {
+	content: "\e772";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-86:before {
+	content: "\e773";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-87:before {
+	content: "\e774";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-88:before {
+	content: "\e775";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-89:before {
+	content: "\e776";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-90:before {
+	content: "\e777";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-91:before {
+	content: "\e778";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-92:before {
+	content: "\e779";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-93:before {
+	content: "\e77b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-94:before {
+	content: "\e77c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-95:before {
+	content: "\e77d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-96:before {
+	content: "\e77e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-97:before {
+	content: "\e77f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-98:before {
+	content: "\e780";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-99:before {
+	content: "\e781";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-100:before {
+	content: "\e782";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-012:before {
+	content: "\e783";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-022:before {
+	content: "\e784";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-032:before {
+	content: "\e785";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-042:before {
+	content: "\e786";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-052:before {
+	content: "\e787";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-062:before {
+	content: "\e788";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-072:before {
+	content: "\e789";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-082:before {
+	content: "\e78a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-092:before {
+	content: "\e78b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-102:before {
+	content: "\e78c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-112:before {
+	content: "\e78d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-122:before {
+	content: "\e78e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-132:before {
+	content: "\e78f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-142:before {
+	content: "\e790";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-152:before {
+	content: "\e791";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-162:before {
+	content: "\e792";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-172:before {
+	content: "\e793";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-182:before {
+	content: "\e794";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-192:before {
+	content: "\e795";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-202:before {
+	content: "\e796";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-212:before {
+	content: "\e797";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-222:before {
+	content: "\e798";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-232:before {
+	content: "\e799";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-242:before {
+	content: "\e79a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-252:before {
+	content: "\e79b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-262:before {
+	content: "\e79c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-272:before {
+	content: "\e79d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-282:before {
+	content: "\e79e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-292:before {
+	content: "\e79f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-302:before {
+	content: "\e7a0";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-312:before {
+	content: "\e7a1";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-322:before {
+	content: "\e7a2";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-332:before {
+	content: "\e7a3";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-342:before {
+	content: "\e7a4";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-352:before {
+	content: "\e7a5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-362:before {
+	content: "\e7a6";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-372:before {
+	content: "\e7a7";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-382:before {
+	content: "\e7a8";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-392:before {
+	content: "\e7a9";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-402:before {
+	content: "\e7aa";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-412:before {
+	content: "\e7ab";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-422:before {
+	content: "\e7ac";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-432:before {
+	content: "\e7ad";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-442:before {
+	content: "\e7ae";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-452:before {
+	content: "\e7af";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-462:before {
+	content: "\e7b0";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-472:before {
+	content: "\e7b1";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-482:before {
+	content: "\e7b2";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-492:before {
+	content: "\e7b3";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-502:before {
+	content: "\e7b4";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-512:before {
+	content: "\e7b5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-522:before {
+	content: "\e7b6";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-532:before {
+	content: "\e7b7";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-542:before {
+	content: "\e7b8";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-552:before {
+	content: "\e7b9";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-562:before {
+	content: "\e7ba";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-572:before {
+	content: "\e7bb";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-582:before {
+	content: "\e7bc";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-592:before {
+	content: "\e7bd";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-602:before {
+	content: "\e7be";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-612:before {
+	content: "\e7bf";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-622:before {
+	content: "\e7c0";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-632:before {
+	content: "\e7c1";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-642:before {
+	content: "\e7c2";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-652:before {
+	content: "\e7c3";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-662:before {
+	content: "\e7c4";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-672:before {
+	content: "\e7c5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-682:before {
+	content: "\e7c6";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-692:before {
+	content: "\e7c7";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-702:before {
+	content: "\e7c8";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-712:before {
+	content: "\e7c9";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-722:before {
+	content: "\e7ca";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-732:before {
+	content: "\e7cb";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-742:before {
+	content: "\e7cc";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-752:before {
+	content: "\e7cd";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-762:before {
+	content: "\e7ce";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-772:before {
+	content: "\e7cf";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-782:before {
+	content: "\e7d0";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-792:before {
+	content: "\e7d1";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-802:before {
+	content: "\e7d2";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-812:before {
+	content: "\e7d3";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-822:before {
+	content: "\e7d4";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-832:before {
+	content: "\e7d5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-842:before {
+	content: "\e7d6";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-852:before {
+	content: "\e7d7";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-862:before {
+	content: "\e7d8";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-872:before {
+	content: "\e7d9";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-882:before {
+	content: "\e7da";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-892:before {
+	content: "\e7db";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-902:before {
+	content: "\e7dc";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-912:before {
+	content: "\e7dd";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-922:before {
+	content: "\e7de";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-932:before {
+	content: "\e7e0";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-942:before {
+	content: "\e7e1";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-952:before {
+	content: "\e7e2";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-962:before {
+	content: "\e7e3";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-972:before {
+	content: "\e7e4";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-982:before {
+	content: "\e7e5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-992:before {
+	content: "\e7e6";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset2a-1002:before {
+	content: "\e7e7";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-01:before {
+	content: "\e7e8";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-02:before {
+	content: "\e7ef";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-03:before {
+	content: "\e7f0";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-04:before {
+	content: "\e7f1";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-05:before {
+	content: "\e7f2";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-06:before {
+	content: "\e7f3";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-07:before {
+	content: "\e7f4";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-08:before {
+	content: "\e7f5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-09:before {
+	content: "\e7f6";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-10:before {
+	content: "\e7f7";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-11:before {
+	content: "\e7f8";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-12:before {
+	content: "\e7f9";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-13:before {
+	content: "\e7fa";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-14:before {
+	content: "\e7fb";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-15:before {
+	content: "\e7fc";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-16:before {
+	content: "\e813";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-17:before {
+	content: "\e814";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-18:before {
+	content: "\e81f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-19:before {
+	content: "\e820";
+}
+
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-20:before {
+	content: "\e82b";
+}
+
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-21:before {
+	content: "\e836";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-22:before {
+	content: "\e837";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-23:before {
+	content: "\e838";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-24:before {
+	content: "\e839";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-25:before {
+	content: "\e83a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-26:before {
+	content: "\e83b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-27:before {
+	content: "\e83c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-28:before {
+	content: "\e83d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-29:before {
+	content: "\e83e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-30:before {
+	content: "\e83f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-31:before {
+	content: "\e840";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-32:before {
+	content: "\e841";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-33:before {
+	content: "\e842";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-34:before {
+	content: "\e843";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-35:before {
+	content: "\e844";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-36:before {
+	content: "\e845";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-37:before {
+	content: "\e846";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-38:before {
+	content: "\e847";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-39:before {
+	content: "\e848";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-40:before {
+	content: "\e849";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-41:before {
+	content: "\e84a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-42:before {
+	content: "\e84b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-43:before {
+	content: "\e84c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-44:before {
+	content: "\e84d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-45:before {
+	content: "\e84e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-46:before {
+	content: "\e84f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-47:before {
+	content: "\e850";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-48:before {
+	content: "\e851";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-49:before {
+	content: "\e852";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-50:before {
+	content: "\e853";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-51:before {
+	content: "\e854";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-52:before {
+	content: "\e855";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-53:before {
+	content: "\e856";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-54:before {
+	content: "\e857";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-55:before {
+	content: "\e858";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-56:before {
+	content: "\e859";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-57:before {
+	content: "\e85a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-58:before {
+	content: "\e85b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-59:before {
+	content: "\e85c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-60:before {
+	content: "\e85d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-61:before {
+	content: "\e85e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-62:before {
+	content: "\e85f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-63:before {
+	content: "\e860";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-64:before {
+	content: "\e861";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-65:before {
+	content: "\e862";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-66:before {
+	content: "\e863";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-67:before {
+	content: "\e864";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-68:before {
+	content: "\e865";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-69:before {
+	content: "\e866";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-70:before {
+	content: "\e867";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-71:before {
+	content: "\e868";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-72:before {
+	content: "\e869";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-73:before {
+	content: "\e86a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-74:before {
+	content: "\e86b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-75:before {
+	content: "\e86c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-76:before {
+	content: "\e86d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-77:before {
+	content: "\e86e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-78:before {
+	content: "\e86f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-79:before {
+	content: "\e870";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-80:before {
+	content: "\e871";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-81:before {
+	content: "\e872";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-82:before {
+	content: "\e873";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-83:before {
+	content: "\e874";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-84:before {
+	content: "\e875";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-85:before {
+	content: "\e876";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-86:before {
+	content: "\e877";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-87:before {
+	content: "\e878";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-88:before {
+	content: "\e879";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-89:before {
+	content: "\e87a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-90:before {
+	content: "\e87b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-91:before {
+	content: "\e87c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-92:before {
+	content: "\e87d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-93:before {
+	content: "\e87e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-94:before {
+	content: "\e87f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-95:before {
+	content: "\e880";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-96:before {
+	content: "\e881";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-97:before {
+	content: "\e882";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-98:before {
+	content: "\e883";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-99:before {
+	content: "\e884";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1b-100:before {
+	content: "\e885";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-01:before {
+	content: "\e886";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-02:before {
+	content: "\e887";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-03:before {
+	content: "\e888";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-04:before {
+	content: "\e889";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-05:before {
+	content: "\e88a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-06:before {
+	content: "\e88b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-07:before {
+	content: "\e88c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-08:before {
+	content: "\e88d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-09:before {
+	content: "\e88e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-10:before {
+	content: "\e88f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-11:before {
+	content: "\e890";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-12:before {
+	content: "\e891";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-13:before {
+	content: "\e892";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-14:before {
+	content: "\e893";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-15:before {
+	content: "\e894";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-16:before {
+	content: "\e895";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-17:before {
+	content: "\e896";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-18:before {
+	content: "\e897";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-19:before {
+	content: "\e898";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-20:before {
+	content: "\e899";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-21:before {
+	content: "\e89a";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-22:before {
+	content: "\e89b";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-23:before {
+	content: "\e89c";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-24:before {
+	content: "\e89d";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-25:before {
+	content: "\e89e";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-26:before {
+	content: "\e89f";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-27:before {
+	content: "\e8a0";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-28:before {
+	content: "\e8a1";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-29:before {
+	content: "\e8a2";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-30:before {
+	content: "\e8a3";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-31:before {
+	content: "\e8a4";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-32:before {
+	content: "\e8a5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-33:before {
+	content: "\e8a6";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-34:before {
+	content: "\e8a7";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-35:before {
+	content: "\e8a8";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-36:before {
+	content: "\e8a9";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-37:before {
+	content: "\e8aa";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-38:before {
+	content: "\e8ab";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-39:before {
+	content: "\e8ac";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-40:before {
+	content: "\e8ad";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-41:before {
+	content: "\e8ae";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-42:before {
+	content: "\e8af";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-43:before {
+	content: "\e8b0";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-44:before {
+	content: "\e8b1";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-45:before {
+	content: "\e8b2";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-46:before {
+	content: "\e8b3";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-47:before {
+	content: "\e8b4";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-48:before {
+	content: "\e8b5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-49:before {
+	content: "\e8b6";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-50:before {
+	content: "\e8b7";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-51:before {
+	content: "\e8b8";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-52:before {
+	content: "\e8b9";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-53:before {
+	content: "\e8ba";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-54:before {
+	content: "\e8bb";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-55:before {
+	content: "\e8bc";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-56:before {
+	content: "\e8bd";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-57:before {
+	content: "\e8be";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-58:before {
+	content: "\e8bf";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-59:before {
+	content: "\e8c0";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-60:before {
+	content: "\e8c1";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-61:before {
+	content: "\e8c2";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-62:before {
+	content: "\e8c3";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-63:before {
+	content: "\e8c4";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-64:before {
+	content: "\e8c5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-65:before {
+	content: "\e8c6";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-66:before {
+	content: "\e8c7";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-67:before {
+	content: "\e8c8";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-68:before {
+	content: "\e8c9";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-69:before {
+	content: "\e8ca";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-70:before {
+	content: "\e8cb";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-71:before {
+	content: "\e8cc";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-72:before {
+	content: "\e8cd";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-73:before {
+	content: "\e8ce";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-74:before {
+	content: "\e8cf";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-75:before {
+	content: "\e8d0";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-76:before {
+	content: "\e8d1";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-77:before {
+	content: "\e8d2";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-78:before {
+	content: "\e8d3";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-79:before {
+	content: "\e8d4";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-80:before {
+	content: "\e8d5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-81:before {
+	content: "\e8d6";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-82:before {
+	content: "\e8d7";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-83:before {
+	content: "\e8d8";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-84:before {
+	content: "\e8d9";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-85:before {
+	content: "\e8da";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-86:before {
+	content: "\e8db";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-87:before {
+	content: "\e8dc";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-88:before {
+	content: "\e8dd";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-89:before {
+	content: "\e8de";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-90:before {
+	content: "\e8df";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-91:before {
+	content: "\e8e0";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-92:before {
+	content: "\e8e1";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-93:before {
+	content: "\e8e2";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-94:before {
+	content: "\e8e3";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-95:before {
+	content: "\e8e4";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-96:before {
+	content: "\e8e5";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-97:before {
+	content: "\e8e6";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-98:before {
+	content: "\e8e7";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-99:before {
+	content: "\e8e8";
+}
+
+
+
+
+
+
+
+.icon-chefpondiconset1a-100:before {
+	content: "\e8e9";
+}
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+Register  http://localhost:8100/#/register
+Login  http://localhost:8100/#/login
+Messages http://localhost:8100/#/messages
+Messages Detail http://localhost:8100/#/messagesDetail
+notification http://localhost:8100/#/notification
+myProfile http://localhost:8100/#/myProfile
+editProfile1 http://localhost:8100/#/editProfile1
+editProfile2 http://localhost:8100/#/editProfile2
+editProfile3 http://localhost:8100/#/editProfile3
+editProfile4 http://localhost:8100/#/editProfile4
+static http://localhost:8100/#/static
+
+view-detail http://localhost:8100/#/taste/2
+
+category-page http://localhost:8100/#/taste

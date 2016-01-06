@@ -1,0 +1,65 @@
+<style>
+.close-icon-four-category {
+    height: 35px;
+    width: 35px;
+    padding-top: 0;
+    padding-left: 0;
+    background-image: url("./img/close-icon.png");
+    background-size: 35px;
+    background-repeat: no-repeat;
+    margin-right: 0;
+    background-position: left center;
+    position: absolute;
+    bottom: -16px;
+    z-index: 11;
+    left: 10px;
+}
+.container-four {
+    background-color: #f6faf8;
+}
+/**/
+</style>
+<ion-view view-title="<div class='header-logo'> </div>">
+   <ion-header-bar class="bar-stable">
+        <div class="islogin" ng-show="true">
+            <div class="chef-logo"> </div>
+            <div class="header-left-button"> </div>
+            <div class="header-logo"> </div>
+            <div class="header-right-button"> </div>
+        </div>
+        <div class="islogin" ng-show="false">
+            <div class="login-header-logo"> </div>
+            <div class="login-top-1-icon"> </div>
+            <div class="login-top-2-icon"> </div>
+            <div class="login-top-3-icon"> </div>
+            <div class="login-top-4-icon"> </div>
+        </div>
+    </ion-header-bar>
+    <ion-content class="container-four">
+        <div class="row">
+            <div class="col col-four" ng-click="goTo('taste')">
+                <div class="col-four-circle taste-icon">
+                    <p>Taste</p>
+                </div>
+            </div>
+            <div class="col col-four" ng-click="goTo('writer')">
+                <div class="col-four-circle writer-icon">
+                    <p>Writer</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col col-four" ng-click="goTo('gallery')">
+                <div class="col-four-circle gallery-icon">
+                    <p>Gallery</p>
+                </div>
+            </div>
+            <div class="col col-four" ng-click="goTo('product')">
+                <div class="col-four-circle product-icon">
+                    <p>Product</p>
+                </div>
+            </div>
+        </div>
+        <div class="close-icon-four-category"></div>
+    </ion-content>
+</ion-view>

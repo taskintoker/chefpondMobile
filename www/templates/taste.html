@@ -1,0 +1,190 @@
+<style>
+
+</style>
+<ion-view view-title="<div class='header-logo'> </div>">
+    <ion-header-bar class="bar-stable">
+        <div class="islogin" ng-show="true">
+            <div class="chef-logo"> </div>
+            <div class="header-left-button"> </div>
+            <div class="header-logo"> </div>
+            <div class="header-right-button"> </div>
+        </div>
+        <div class="islogin" ng-show="false">
+            <div class="login-header-logo"> </div>
+            <div class="login-top-1-icon"> </div>
+            <div class="login-top-2-icon"> </div>
+            <div class="login-top-3-icon"> </div>
+            <div class="login-top-4-icon"> </div>
+        </div>
+    </ion-header-bar>
+    <ion-content class="container-main">
+        <ion-scroll direction="x" class="tsb-hscroll">
+            <a href="javascript:;" class="{{tab.class}}" ng-repeat="tab in tabs" on-finish-render="test()" data-index="tab.class" ng-click="filterModalOpen(tab.filter)">{{tab.text}}</a>
+        </ion-scroll>
+        <div class="list category-list padding">
+            <a class="item item-thumbnail-left" href="#/taste/{{2}}">
+                <img src="./img/image.jpg">
+                <p class="right-top">8.2 </p>
+                <span>by Sergey Kamuisan</span>
+                <h2>Pan-fried chicken breast orange souce served with grilled potato and garden</h2>
+                <p class="desc">Pan-fried chicken breast orange souce served with grilled potato and garden...</p>
+                <div class="button-bar">
+                    <p class="seen">156662 </p>
+                    <p class="like">156662 </p>
+                    <p class="comment">156662 </p>
+                </div>
+            </a>
+        </div>
+    </ion-content>
+    <div class="bar bar-footer bar-stable default-footer">
+        <div class="button-bar" ng-show="!true">
+            <a class="button blue-button">Sign Up</a>
+            <a class="button grey-button">Login</a>
+        </div>
+        <div class="button-bar" ng-show="!false">
+            <a class="button col col-25 footer-left-icon" ng-click="goTo('four-category')"></a>
+            <a class="button col col-50 footer-center-icon" ng-click="uploadModalOpen('uploadModal')"></a>
+            <a class="button col col-25 footer-right-icon" ng-click="goTo('profile')"></a>
+        </div>
+    </div>
+</ion-view>
+<script id="templates/taste-category.html" type="text/ng-template">
+    <ion-modal-view class="filter-modal">
+        <div class="filter-close-cross-button" ng-click="filterModalClose('tasteCategory')"> X </div>
+        <ion-content class="">
+            <div class="writer-category-filter">
+                <div class="row">
+                    <div class="col col-25 taste-filter-icon-1"> Taste Category </div>
+                    <div class="col col-25 taste-filter-icon-2"> Taste </div>
+                    <div class="col col-25 taste-filter-icon-3"> Taste</div>
+                    <div class="col col-25 taste-filter-icon-4">Taste </div>
+                </div>
+                <div class="row">
+                    <div class="col col-25 taste-filter-icon-1"> Taste Category </div>
+                    <div class="col col-25 taste-filter-icon-2"> Taste </div>
+                    <div class="col col-25 taste-filter-icon-3"> Taste</div>
+                    <div class="col col-25 taste-filter-icon-4">Taste </div>
+                </div>
+                <div class="row">
+                    <div class="col col-25 taste-filter-icon-1"> Taste Category </div>
+                    <div class="col col-25 taste-filter-icon-2"> Taste </div>
+                    <div class="col col-25 taste-filter-icon-3"> Taste</div>
+                    <div class="col col-25 taste-filter-icon-4">Taste </div>
+                </div>
+                <div class="row">
+                    <div class="col col-25 taste-filter-icon-1"> Taste Category </div>
+                    <div class="col col-25 taste-filter-icon-2"> Taste </div>
+                    <div class="col col-25 taste-filter-icon-3"> Taste</div>
+                    <div class="col col-25 taste-filter-icon-4">Taste </div>
+                </div>
+            </div>
+        </ion-content>
+        <div class="bar bar-footer bar-stable default-footer">
+            <button class="button button-full button-positive button-blue filter-button" ng-click="modal.show()">
+                FİLTRELE
+            </button>
+        </div>
+    </ion-modal-view>
+</script>
+<script id="templates/member-type.html" type="text/ng-template">
+    <ion-modal-view class="filter-modal">
+        <div class="filter-close-cross-button" ng-click="filterModalClose('memberType')"> X </div>
+        <ion-content class="">
+            <div class="writer-category-filter">
+                <div class="row responsive-sm">
+                    <div class="col member-filter-icon-1"> Professionel Chef </div>
+                    <div class="col member-filter-icon-2"> Student Chef</div>
+                    <div class="col member-filter-icon-3"> Hobby Cook</div>
+                </div>
+            </div>
+        </ion-content>
+        <div class="bar bar-footer bar-stable default-footer">
+            <button class="button button-full button-positive button-blue filter-button" ng-click="modal.show()">
+                FİLTRELE
+            </button>
+        </div>
+    </ion-modal-view>
+</script>
+<script id="templates/materials.html" type="text/ng-template">
+    <ion-modal-view class="filter-modal">
+        <div class="filter-close-cross-button" ng-click="filterModalClose('materials')"> X </div>
+        <ion-content class="">
+            <div class="writer-category-filter">
+                <div class="row responsive-sm">
+                    <div class="col">
+                        <div class="item item-input-inset material-input">
+                            <label class="item-input-wrapper">
+                                <i class="icon ion-search placeholder-icon"></i>
+                                <input type="text" placeholder="">
+                            </label>
+                            <button class="button button-small filter-add-icon">
+                            </button>
+                        </div>
+                        <div class="material-add-section">
+                            <span> apple </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </ion-content>
+        <div class="bar bar-footer bar-stable default-footer">
+            <button class="button button-full button-positive button-blue filter-button" ng-click="modal.show()">
+                FİLTRELE
+            </button>
+        </div>
+    </ion-modal-view>
+</script>
+<script id="templates/featured.html" type="text/ng-template">
+    <ion-modal-view class="filter-modal">
+        <div class="filter-close-cross-button" ng-click="filterModalClose('featured')"> X </div>
+        <ion-content class="">
+            <div class="writer-category-filter">
+                <div class="row responsive-sm">
+                    <div class="col featured-filter-icon-1"> Top Raiting </div>
+                    <div class="col featured-filter-icon-2"> Most Appreciated</div>
+                    <div class="col featured-filter-icon-3"> Most Viewed</div>
+                    <div class="col featured-filter-icon-4"> Most Discussed</div>
+                    <div class="col featured-filter-icon-5"> Most Recent</div>
+                </div>
+            </div>
+        </ion-content>
+        <div class="bar bar-footer bar-stable default-footer">
+            <button class="button button-full button-positive button-blue filter-button" ng-click="modal.show()">
+                FİLTRELE
+            </button>
+        </div>
+    </ion-modal-view>
+</script>
+<script id="templates/world-wide.html" type="text/ng-template">
+    <ion-modal-view class="filter-modal">
+        <div class="filter-close-cross-button" ng-click="filterModalClose('worldWide')"> X </div>
+        <ion-content class="world-wide-filter">
+            <label class="item item-input">
+                <div class="country-icon"> </div>
+                <div class="select-icon"> </div>
+                <select class="country-select"  >
+                    <option>Ülke Seçiniz</option>
+                </select>
+            </label>
+            <label class="item item-input">
+                <div class="country-icon"> </div>
+                <div class="select-icon"> </div>
+                <select class="country-select"  >
+                    <option>Ülke Seçiniz</option>
+                </select>
+            </label>
+            <label class="item item-input">
+                <div class="country-icon"> </div>
+                <div class="select-icon"> </div>
+                <select class="country-select"  >
+                    <option>Ülke Seçiniz</option>
+                </select>
+            </label>
+        </ion-content>
+        <div class="bar bar-footer bar-stable default-footer">
+            <button class="button button-full button-positive button-blue filter-button" ng-click="modal.show()">
+                FİLTRELE
+            </button>
+        </div>
+    </ion-modal-view>
+</script>

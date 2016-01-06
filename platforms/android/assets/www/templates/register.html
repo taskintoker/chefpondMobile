@@ -1,0 +1,226 @@
+<style>
+ion-nav-bar,
+.chef-logo,
+.header-right-button,
+.header-left-button,
+.islogin {
+    display: none
+}
+
+.has-header {
+    top: 0;
+}
+
+.login-container {
+    background-color: #F2F2F2;
+}
+
+.login-logo {
+    background-image: url("./img/login-logo.png");
+    width: 70%;
+    height: 70px;
+    background-size: 94%;
+    background-repeat: no-repeat;
+    display: block;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+
+.login-container label.item.item-input {
+    border-radius: 12px;
+    background-color: #fff;
+    padding-left: 10px;
+    margin-bottom: 12px;
+    height: 40px;
+}
+
+.login-container .list-inset {
+    background-color: transparent;
+    margin-bottom: 0
+}
+
+.name-icon {
+    height: 30px;
+    width: 38px;
+    background-image: url("./img/name-icon.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    border-right: 1px solid #ddd;
+    margin-right: 10px;
+    background-position: left center;
+}
+
+.e-mail-icon {
+    height: 30px;
+    width: 38px;
+    background-image: url("./img/e-mail-icon.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    border-right: 1px solid #ddd;
+    margin-right: 10px;
+    background-position: left center;
+}
+
+.password-icon {
+    height: 30px;
+    width: 38px;
+    background-image: url("./img/password-icon.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    border-right: 1px solid #ddd;
+    margin-right: 10px;
+    background-position: left center;
+}
+
+.country-icon {
+    height: 30px;
+    width: 38px;
+    background-image: url("./img/country-icon.png");
+    background-size: 27px;
+    background-repeat: no-repeat;
+    border-right: 1px solid #ddd;
+    margin-right: 10px;
+    background-position: 5px center;
+}
+
+.select-icon {
+    height: 30px;
+    width: 38px;
+    background-image: url("./img/select-icon.png");
+    background-size: 26px;
+    background-repeat: no-repeat;
+    margin-right: 0px;
+    background-position: left center;
+    position: absolute;
+    right: 0;
+    top: 4px;
+    background-color: #fff;
+}
+
+.term-conditions {
+    padding: 0 20px;
+}
+
+.term-conditions p {
+    font-size: 12px;
+    color: #999999;
+}
+
+.term-conditions input {
+    float: left;
+    margin-right: 0;
+}
+
+.register-button {
+    border-radius: 14px;
+    background-color: #27B4F2 !important;
+    border: #27B4F2 !important;
+    height: 36px !important;
+    min-height: 38px !important;
+    line-height: 18px !important;
+}
+
+.login-button {
+    border-radius: 14px;
+    background-color: #F2F2F2 !important;
+    border: 1px solid #27B4F2 !important;
+    height: 36px !important;
+    min-height: 38px !important;
+    line-height: 18px !important;
+    color: #27B4F2 !important;
+}
+
+.login-container .checkbox {
+    float: left;
+}
+
+.login-container .checkbox input:before,
+.checkbox-icon:before {
+    display: table;
+    width: 20px;
+    height: 20px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 6px;
+    background: #fff;
+    content: ' ';
+    -webkit-transition: background-color 20ms ease-in-out;
+    transition: background-color 20ms ease-in-out;
+}
+
+.login-container .checkbox input:checked:before,
+.checkbox input:checked + .checkbox-icon:before {
+    background: #27B4F2;
+    border-color: #27B4F2;
+}
+
+.login-container .checkbox input:after,
+.checkbox-icon:after {
+    top: 20%;
+    left: 16%;
+}
+
+.checkbox {
+    position: relative;
+    display: inline-block;
+    padding: 0;
+    cursor: pointer;
+}
+
+.country-select {
+    width: 100%;
+    height: 40px;
+    border: none;
+    background: #fff;
+}
+
+.select-placeholder {
+    position: absolute;
+    color: #B4B4B4 !important;
+    vertical-align: middle;
+    font-size: 14px !important;
+    line-height: 16px;
+    top: 12px;
+    left: 58px;
+    z-index: 11;
+}
+</style>
+<ion-view view-title="">
+    <ion-content class="padding login-container">
+        <div class="close-icon" ng-click="goTo('four-category')">close </div>
+        <div class="login-logo"> </div>
+        <div class="list list-inset">
+            <label class="item item-input">
+                <div class="name-icon"> </div>
+                <input type="text" placeholder="Name" ng-model="user.name" ng-focus="focus()">
+            </label>
+            <label class="item item-input">
+                <div class="e-mail-icon"> </div>
+                <input type="text" placeholder="E-mail" ng-model="user.email">
+            </label>
+            <label class="item item-input">
+                <div class="password-icon"> </div>
+                <input type="text" placeholder="Password" ng-model="user.password">
+            </label>
+            <label class="item item-input">
+                <div class="country-icon"> </div>
+                <div class="select-icon"> </div>
+                <select class="country-select" ng-model="user.country">
+                    <option>Ülke Seçiniz</option>
+                </select>
+            </label>
+        </div>
+        <div class="term-conditions">
+            <label class="checkbox">
+                <input type="checkbox" ng-model="user.term">
+            </label>
+            <p> I have read the Terms of Use and Privacy Policy, and I agree. </p>
+        </div>
+        <button class="button button-block button-positive register-button" ng-click="register(user);">
+            Kaydol
+        </button>
+        <button class="button button-block button-positive login-button" ng-click="goTo('login')">
+            Giriş Yap
+        </button>
+    </ion-content>
+</ion-view>

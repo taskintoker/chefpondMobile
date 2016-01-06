@@ -1,0 +1,35 @@
+<ion-view view-title="" hide-nav-bar="true">
+    <ion-content class="padding login-container">
+        <div class="login-logo"> </div>
+        <div class="list list-inset">
+            <label class="item item-input">
+                <span class="label-icon icon-chefpondiconset2a-792"> </span>
+                <input type="text" placeholder="Name" ng-model="user.name">
+            </label>
+            <label class="item item-input">
+                <span class="label-icon icon-chefpondiconset2a-792"> </span>
+                <input type="text" placeholder="E-mail" ng-model="user.email">
+            </label>
+            <label class="item item-input">
+                <span class="label-icon icon-chefpondiconset2a-792"> </span>
+                <input type="text" placeholder="Password" ng-model="user.password">
+            </label>
+            <label class="item item-input">
+                <span class="label-icon icon-chefpondiconset2a-792"> </span>
+                <div class="select-icon"> </div>
+                <select class="country-select" ng-model="user.country">
+                    <option>Ülke Seçiniz</option>
+                </select>
+            </label>
+        </div>
+        <div class="term-conditions">
+            <label class="checkbox" for="term">
+                <input type="checkbox" ng-model="user.term" name="term" id="term">
+            </label>
+            <label for="term"> I have read the Terms of Use and Privacy Policy, and I agree.</label>
+        </div>
+        <button class="button button-block button-positive register-button" ng-click="register(user)">
+            Kaydol
+        </button>
+    </ion-content>
+</ion-view>

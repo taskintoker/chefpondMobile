@@ -1,0 +1,61 @@
+<ion-view view-title="">
+   <ion-header-bar class="bar-light messages-header-bar">
+        <div class="message-header-left">
+            <a class="button icon-left icon-chefpondiconset2a-88 button-clear button-dark"> <span> Close Message </span></a>
+        </div>
+        <div class="message-header-right">
+            <a class="button icon-left icon-chefpondiconset2a-88 button-clear button-dark"> </a>
+        </div>
+    </ion-header-bar>
+    <ion-content class="container-main edit-profie-container edit-profile-2">
+        <div class="profile-top">
+            <div class="list messages-list">
+                <a class="item item-thumbnail-left" href="#">
+                    <div class="messages-right">
+                        <h2>Professional details</h2>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="edit-profile-4">
+            <div class="list">
+                <div class="proffessional-details">
+                    <div class="row details-line">
+                        <div class="col col-33 taste-filter-icon-1"> Etli Sebzeli Yemekler </div>
+                        <div class="col col-33 taste-filter-icon-2"> Deniz Mahsulleri </div>
+                        <div class="col col-33 taste-filter-icon-3"> Sebze Yemekleri</div>
+                    </div>
+                     <div class="row details-line">
+                        <div class="col col-33 taste-filter-icon-1"> Etli Sebzeli Yemekler </div>
+                        <div class="col col-33 taste-filter-icon-2"> Deniz Mahsulleri </div>
+                        <div class="col col-33 taste-filter-icon-3"> Sebze Yemekleri</div>
+                    </div>
+                     <div class="row details-line">
+                        <div class="col col-33 taste-filter-icon-1"> Etli Sebzeli Yemekler </div>
+                        <div class="col col-33 taste-filter-icon-2"> Deniz Mahsulleri </div>
+                        <div class="col col-33 taste-filter-icon-3"> Sebze Yemekleri</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </ion-content>
+    <div class="bar bar-footer bar-stable default-footer">
+        <div class="button-bar" ng-show="!true">
+            <a class="button blue-button">Sign Up</a>
+            <a class="button grey-button">Login</a>
+        </div>
+        <div class="button-bar" ng-show="!false">
+            <a class="button col col-25 footer-left-icon" ng-click="goTo('four-category')"></a>
+            <a class="button col col-50 footer-center-icon" ng-click="uploadModalOpen('uploadModal')"></a>
+            <a class="button col col-25 footer-right-icon" ng-click="goTo('profile')"></a>
+        </div>
+        <div class="button-bar messages-select-footer" ng-show="false">
+            <button class="button button-clear button-positive custom-left-btn">
+                Select All
+            </button>
+            <button class="button button-clear button-positive  custom-right-btn">
+                Move To Archive
+            </button>
+        </div>
+    </div>
+</ion-view>

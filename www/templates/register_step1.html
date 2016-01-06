@@ -1,0 +1,101 @@
+<link href="lib/tabs/tabSlideBox.css" rel="stylesheet">
+<script src="lib/tabs/tabSlideBox.js"></script>
+<ion-view view-title="" hide-nav-bar="true" class="bg-blue">
+    <ion-content class="padding login-container bg-blue">
+        <div class="btn-close" ui-sref="login"><i class="icon-chefpondiconset1a-78"><span>Cancel</span></i></div>
+        <div class="login-logo-white"> </div>
+        <p class="info-title">Please select yout membership type.</p>
+        <tab-slide-box>
+            <div class="tsb-icons">
+                <div class="tsb-ic-wrp">
+                    <ion-scroll direction="x" class="tsb-hscroll">
+                        <a href="javascript:;" class="ion-home1">KİŞİLER</a>
+                        <a href="javascript:;" class="ion-ios-game-controller-b1">KURUMLAR</a>
+                    </ion-scroll>
+                </div>
+            </div>
+            <ion-slide-box show-pager="false" on-slide-changed="slideHasChanged($index)">
+                <ion-slide>
+                    <ul class="list icon-list">
+                        <li class="item cl-50">
+                            <div class="radius-bg"><i class="icon-Chefpondiconset3a-79"></i></div>
+                            <p>Professional Chef</p>
+                        </li>
+                        <li class="item cl-50">
+                            <div class="radius-bg"><i class="icon-Chefpondiconset3a-79"></i></div>
+                            <p>Student Chef</p>
+                        </li>
+                        <li class="item cl-50">
+                            <div class="radius-bg"><i class="icon-Chefpondiconset3a-79"></i></div>
+                            <p>Gourmet Chef</p>
+                        </li>
+                        <li class="item cl-50">
+                            <div class="radius-bg"><i class="icon-Chefpondiconset3a-79"></i></div>
+                            <p>F&B Manager</p>
+                        </li>
+                        <li class="item cl-50">
+                            <div class="radius-bg"><i class="icon-Chefpondiconset3a-79"></i></div>
+                            <p>Hobby Cook</p>
+                        </li>
+                    </ul>
+                    <div class="register-next-button">Next Step</div>
+                    <i class="icon-chefpondiconset2a-89"></i>
+                    <div class="list list-inset" style="display:none;">
+                        <div class="register-step1">
+                            <label class="item item-input">
+                                <span class="label-icon icon-chefpondiconset2a-792"> </span>
+                                <input type="text" placeholder="Name" ng-model="user.name">
+                            </label>
+                            <label class="item item-input">
+                                <span class="label-icon icon-chefpondiconset2a-792"> </span>
+                                <input type="text" placeholder="E-mail" ng-model="user.email">
+                            </label>
+                            <label class="item item-input">
+                                <span class="label-icon icon-chefpondiconset2a-792"> </span>
+                                <input type="text" placeholder="Password" ng-model="user.password">
+                            </label>
+                            <label class="item item-input">
+                                <span class="label-icon icon-chefpondiconset2a-792"> </span>
+                                <div class="select-icon"> </div>
+                                <select class="country-select" ng-model="user.country">
+                                    <option>Ülke Seçiniz</option>
+                                </select>
+                            </label>
+                        </div>
+                    </div>
+                </ion-slide>
+                <ion-slide>
+                    <div class="register-step2">
+                        <ul class="list icon-list">
+                            <li class="item cl-50">
+                                <div class="radius-bg"><i class="icon-Chefpondiconset3a-79"></i></div>
+                                <p>Culinary School</p>
+                            </li>
+                            <li class="item cl-50">
+                                <div class="radius-bg"><i class="icon-Chefpondiconset3a-79"></i></div>
+                                <p>Culinary Training Center</p>
+                            </li>
+                            <li class="item cl-50">
+                                <div class="radius-bg"><i class="icon-Chefpondiconset3a-79"></i></div>
+                                <p>Culunary Federation</p>
+                            </li>
+                            <li class="item cl-50">
+                                <div class="radius-bg"><i class="icon-Chefpondiconset3a-79"></i></div>
+                                <p>Cooking Associations</p>
+                            </li>
+                            <li class="item cl-50">
+                                <div class="radius-bg"><i class="icon-Chefpondiconset3a-79"></i></div>
+                                <p>Supplier's</p>
+                            </li>
+                            <li class="item cl-50">
+                                <div class="radius-bg"><i class="icon-Chefpondiconset3a-79"></i></div>
+                                <p>Place's</p>
+                            </li>
+                        </ul>
+                        <div class="register-next-button" style="display:none;">Next Step</div>
+                    </div>
+                </ion-slide>
+            </ion-slide-box>
+        </tab-slide-box>
+    </ion-content>
+</ion-view>

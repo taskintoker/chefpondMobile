@@ -1,0 +1,177 @@
+<style>
+ion-nav-bar,
+.chef-logo,
+.header-right-button,
+.header-left-button,
+.islogin {
+    display: none
+}
+
+.has-header {
+    top: 0;
+}
+
+.login-container {
+    background-color: #F2F2F2;
+}
+
+.login-logo {
+    background-image: url("./img/login-logo.png");
+    width: 70%;
+    height: 70px;
+    background-size: 94%;
+    background-repeat: no-repeat;
+    display: block;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+
+.login-container label.item.item-input {
+    border-radius: 12px;
+    background-color: #fff;
+    padding-left: 10px;
+    margin-bottom: 12px;
+    height: 40px;
+}
+
+.login-container .list-inset {
+    background-color: transparent;
+    margin-bottom: 0
+}
+
+.name-icon {
+    height: 30px;
+    width: 38px;
+    background-image: url("./img/name-icon.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    border-right: 1px solid #ddd;
+    margin-right: 10px;
+    background-position: left center;
+}
+
+.e-mail-icon {
+    height: 30px;
+    width: 38px;
+    background-image: url("./img/e-mail-icon.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    border-right: 1px solid #ddd;
+    margin-right: 10px;
+    background-position: left center;
+}
+
+.password-icon {
+    height: 30px;
+    width: 38px;
+    background-image: url("./img/password-icon.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    border-right: 1px solid #ddd;
+    margin-right: 10px;
+    background-position: left center;
+}
+
+.country-icon {
+    height: 30px;
+    width: 38px;
+    background-image: url("./img/country-icon.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    border-right: 1px solid #ddd;
+    margin-right: 10px;
+    background-position: left center;
+}
+
+.term-conditions {
+    padding: 0 20px;
+}
+
+.term-conditions p {
+    font-size: 12px;
+    color: #999999;
+}
+
+.term-conditions input {
+    float: left;
+    margin-right: 10px;
+}
+
+.register-button {
+    border-radius: 12px;
+    background-color: #27B4F2 !important;
+    border: #27B4F2 !important;
+    height: 36px !important;
+    min-height: 38px !important;
+    line-height: 18px !important;
+}
+
+.chef-sign {
+    height: 100%;
+    width: 50%;
+    background-image: url("./img/chef-sign.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+    background-position: left center;
+}
+
+.sign-footer {
+    background-color: transparent !important;
+    border: none !important;
+    height: 240px !important;
+    background-image: none !important;
+}
+
+.social-sign {
+    width: 50%;
+    float: left;
+    position: relative;
+    text-align: center;
+}
+
+.socail-sign-icon {
+    border-top: 1px solid #FFF;
+    padding: 10px;
+    width: 130px;
+    margin: 0 auto;
+}
+
+.socail-sign-icon img {
+    width: 100%;
+}
+
+.social-sign p {
+    color: #B3B3B3;
+    padding-bottom: 0 !important;
+    font-size: 14px;
+}
+</style>
+<ion-view view-title="">
+    <ion-content class="padding login-container">
+        <div class="close-icon" ng-click="goTo('four-category')">close </div>
+        <div class="login-logo"> </div>
+        <div class="list list-inset">
+            <label class="item item-input">
+                <div class="e-mail-icon"> </div>
+                <input type="text" placeholder="E-mail" ng-model="user.email" ng-focus="loginFocus()">
+            </label>
+            <label class="item item-input">
+                <div class="password-icon"> </div>
+                <input type="text" placeholder="Password" ng-model="user.password">
+            </label>
+        </div>
+        <button class="button button-block button-positive register-button" ui-sref="four-category" ng-click="login(user)">
+            Giriş Yap
+        </button>
+    </ion-content>
+    <div class="bar bar-footer sign-footer">
+        <div class="social-sign">
+            <p> Connected with</p>
+            <div class="socail-sign-icon"><img src="./img/facebook-icon.png" /> </div>
+            <div class="socail-sign-icon"><img src="./img/twitter-icon.png" /> </div>
+            <div class="socail-sign-icon"><img src="./img/google-icon.png" /> </div>
+        </div>
+        <div class="chef-sign"></div>
+    </div>
+</ion-view>

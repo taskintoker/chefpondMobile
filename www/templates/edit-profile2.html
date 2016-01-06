@@ -1,0 +1,71 @@
+<ion-view view-title="">
+    <ion-header-bar class="bar-light messages-header-bar">
+        <div class="message-header-left">
+            <a class="button icon-left icon-chefpondiconset2a-88 button-clear button-dark"> <span> Close Message </span></a>
+        </div>
+        <div class="message-header-right">
+            <a class="button icon-left icon-chefpondiconset2a-88 button-clear button-dark"> </a>
+        </div>
+    </ion-header-bar>
+    <ion-content class="container-main edit-profie-container edit-profile-2">
+        <div class="profile-top">
+            <div class="list messages-list">
+                <a class="item item-thumbnail-left" href="#">
+                    <div class="messages-right">
+                        <h2>Abovethetime Restaurant</h2>
+                        <div class="messages-user-title">
+                            <i> title icon </i> <span> Proffesional Chef</span>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="edit-profile-1">
+            <div class="list">
+                <a class="item item-icon-right" href="#">
+                   Twitter : #abovethetime
+                    <i class="icon ion-ios-arrow-right"></i>
+                </a>
+                <a class="item item-icon-right" href="#">
+                   About
+                    <i class="icon ion-ios-arrow-right"></i>
+                </a>
+                <a class="item item-icon-right" href="#">
+                   Proffessional details
+                    <i class="icon ion-ios-arrow-right"></i>
+                </a>
+                <a class="item item-icon-right" href="#">
+                    Architectural details
+                    <i class="icon ion-ios-arrow-right"></i>
+                </a>
+                 <a class="item item-icon-right" href="#">
+                    Technical details
+                    <i class="icon ion-ios-arrow-right"></i>
+                </a>
+                 <a class="item item-icon-right" href="#">
+                    On the Web
+                    <i class="icon ion-ios-arrow-right"></i>
+                </a>
+            </div>
+        </div>
+    </ion-content>
+    <div class="bar bar-footer bar-stable default-footer">
+        <div class="button-bar" ng-show="!true">
+            <a class="button blue-button">Sign Up</a>
+            <a class="button grey-button">Login</a>
+        </div>
+        <div class="button-bar" ng-show="!false">
+            <a class="button col col-25 footer-left-icon" ng-click="goTo('four-category')"></a>
+            <a class="button col col-50 footer-center-icon" ng-click="uploadModalOpen('uploadModal')"></a>
+            <a class="button col col-25 footer-right-icon" ng-click="goTo('profile')"></a>
+        </div>
+        <div class="button-bar messages-select-footer" ng-show="false">
+            <button class="button button-clear button-positive custom-left-btn">
+                Select All
+            </button>
+            <button class="button button-clear button-positive  custom-right-btn">
+                Move To Archive
+            </button>
+        </div>
+    </div>
+</ion-view>

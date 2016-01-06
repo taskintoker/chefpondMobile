@@ -1,0 +1,89 @@
+<style>
+.modal-detail-info .category-list a {
+    padding-left: 0
+}
+
+.taste-detail .category-list a {
+    padding-left: 12px;
+    margin-bottom: 0;
+}
+
+.right-top-detail {
+    background-image: url("../img/prize-icon.png");
+    background-repeat: no-repeat;
+    background-size: 26px;
+    background-position: 0 0;
+    text-align: left;
+    padding-left: 28px;
+    float: left;
+    margin-top: 8px;
+    font-size: 12px !important;
+    padding-top: 5px;
+    margin-left: 10px;
+}
+
+.detail-icon {
+    width: 70px;
+    height: 20px;
+    /* background-color: #ddd; */
+    
+    float: left;
+    margin-top: 10px;
+    margin-right: 6px;
+}
+
+.statistic-section {
+    min-height: 150px;
+    border-bottom: 1px solid #ddd;
+    padding: 20px;
+}
+
+.statistic-section h2 {
+    font-size: 20px;
+    color: #999999;
+}
+</style>
+<ion-modal-view>
+    <ion-content class="modal-detail-info">
+       <div class="list modal-detail-info-header">
+            <a class="item"> 
+                <div class="button-bar">
+                    <p class="detail-icon" ng-click="infoModal.hide()">Close </p>
+                    <p class="seen">156662 </p>
+                    <p class="like">156662 </p>
+                    <p class="comment">156662 </p>
+                    <p class="right-top-detail">8.2 </p>
+                </div>
+            </a>
+        </div>
+        <div class="statistic-section">
+            <h2>Statistics </h2>
+        </div>
+        <div class="statistic-section">
+            <h2>Statistics </h2>
+        </div>
+        <div class="statistic-section">
+            <h2>Statistics </h2>
+        </div>
+        <div class="statistic-section">
+            <h2>Statistics </h2>
+        </div>
+        <div class="statistic-section">
+            <h2>Statistics </h2>
+        </div>
+        <div class="statistic-section">
+            <h2>Statistics </h2>
+        </div>
+    </ion-content>
+    <div class="bar bar-footer bar-stable default-footer">
+        <div class="button-bar" ng-show="false">
+            <a class="button blue-button">Sign Up</a>
+            <a class="button grey-button">Login</a>
+        </div>
+        <div class="button-bar">
+            <a class="button col col-25 footer-left-icon"></a>
+            <a class="button col col-50 footer-center-icon"></a>
+            <a class="button col col-25 footer-right-icon"></a>
+        </div>
+    </div>
+</ion-modal-view>
